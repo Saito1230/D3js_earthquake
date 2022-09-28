@@ -1,0 +1,22 @@
+{
+  "name": "d3js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "command-line-args": "^5.2.1",
+    "convert-svg-to-png": "^0.6.4",
+    "d3": "^7.5.0",
+    "d3-queue": "^3.0.7",
+    "fs": "^0.0.1-security",
+    "jsdom": "^20.0.0",
+    "mysql2": "^2.3.3",
+    "sharp": "^0.30.7",
+    "simplify-geojson": "^1.0.5"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "body": {
+    "comments": {
+      "forecast": {
+        "text": "この地震による津波の心配はありません。",
+        "codes": [
+          "0215"
+        ]
+      }
+    },
+    "intensity": {
+      "cities": [
+        {
+          "code": "0721100",
+          "name": "田村市",
+          "maxInt": "1"
+        }
+      ],
+      "maxInt": "1",
+      "regions": [
+        {
+          "code": "250",
+          "name": "福島県中通り",
+          "maxInt": "1"
+        }
+      ],
+      "stations": [
+        {
+          "int": "1",
+          "code": "0721101",
+          "name": "田村市船引町"
+        }
+      ],
+      "prefectures": [
+        {
+          "code": "07",
+          "name": "福島県",
+          "maxInt": "1"
+        }
+      ]
+    },
+    "earthquake": {
+      "magnitude": {
+        "type": "マグニチュード",
+        "unit": "Mj",
+        "value": "3.8"
+      },
+      "hypocenter": {
+        "code": "287",
+        "name": "宮城県沖",
+        "depth": {
+          "type": "深さ",
+          "unit": "km",
+          "value": "50"
+        },
+        "coordinate": {
+          "height": {
+            "type": "高さ",
+            "unit": "m",
+            "value": "-50000"
+          },
+          "latitude": {
+            "text": "37.8˚N",
+            "value": "37.8000"
+          },
+          "longitude": {
+            "text": "141.7˚E",
+            "value": "141.7000"
+          },
+          "geodeticSystem": "日本測地系"
+        }
+      },
+      "originTime": "2022-03-18T07:55:00+09:00",
+      "arrivalTime": "2022-03-18T07:55:00+09:00"
+    }
+  },
+  "type": "震源・震度に関する情報",
+  "title": "震源・震度情報",
+  "status": "通常",
+  "_schema": {
+    "type": "earthquake-information",
+    "version": "1.1.0"
+  },
+  "eventId": "20220318075539",
+  "headline": "１８日０７時５５分ころ、地震がありました。",
+  "infoKind": "地震情報",
+  "infoType": "発表",
+  "serialNo": "1",
+  "_originalId": "26e2c361ab2ce3b3c49deb200d80f3d8d8b648cb6f47eac1f3d78ddb95044dfa7bd52e806c170744145da797d09c9fce",
+  "pressDateTime": "2022-03-17T22:58:16Z",
+  "reportDateTime": "2022-03-18T07:58:00+09:00",
+  "targetDateTime": "2022-03-18T07:58:00+09:00",
+  "editorialOffice": "気象庁本庁",
+  "infoKindVersion": "1.0_1",
+  "publishingOffice": [
+    "気象庁"
+  ]
+}

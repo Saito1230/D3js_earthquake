@@ -1,0 +1,54 @@
+{
+  "SeaColor": "#1c1c1c",
+  "PrefColor": "#3a3a3a",
+  "1": {
+    "foreColor": "rgb(0,0,0)",
+    "backColor": "rgb(70,100,110)",
+    "Text": "1"
+  },
+  "2": {
+    "foreColor": "rgb(0,0,0)",
+    "backColor": "rgb(30,110,230)",
+    "Text": "2"
+  },
+  "3": {
+    "foreColor": "rgb(0,0,0)",
+    "backColor": "rgb(0,200,200)",
+    "Text": "3"
+  },
+  "4": {
+    "foreColor": "rgb(0,0,0)",
+    "backColor": "rgb(250,250,100)",
+    "Text": "4"
+  },
+  "5-": {
+    "foreColor": "rgb(255, 255, 255)",
+    "backColor": "rgb(255, 180, 0)",
+    "Text": "5弱"
+  },
+  "5+": {
+    "foreColor": "rgb(255, 255, 255)",
+    "backColor": "rgb(255, 120, 0)",
+    "Text": "5強"
+  },
+  "6-": {
+    "foreColor": "rgb(255, 255, 255)",
+    "backColor": "rgb(230,0,0)",
+    "Text": "6弱"
+  },
+  "6+": {
+    "foreColor": "rgb(255, 255, 255)",
+    "backColor": "rgb(160, 0, 0)",
+    "Text": "6強"
+  },
+  "7": {
+    "foreColor": "rgb(255, 255, 255)",
+    "backColor": "rgb(150,0,150)",
+    "Text": "7"
+  },
+  "0": {
+    "foreColor": "rgb(0,0,0)",
+    "backColor": "rgb(70, 80, 80)",
+    "Text": "不明"
+  }
+}
